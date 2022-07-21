@@ -46,6 +46,6 @@ CSS and HTML are what website developers constantly work with and their knowledg
 
 I only knew the basics of CSS and there was a lot of useful information for me, I liked the game with frogs and helped me to try out the material covered in practice.
 
-[Flexbox Froggy](http://flexboxfroggy.com/#ru)
+[Flexbox Froggy](http://flexboxfroggy.com/#ru) a simulator in which you can train flex in a playful way.
 
 ![FlexboxDone](./task_responsive_web_design/flexbox-froggy.png)
