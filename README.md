@@ -42,10 +42,10 @@ CSS and HTML are what website developers constantly work with and their knowledg
 
 ## Responsive Web Design
 
-[Responsve](./task_responsive_web_design/responsive.png)
+![Responsve](./task_responsive_web_design/responsive.png)
 
 I only knew the basics of CSS and there was a lot of useful information for me, I liked the game with frogs and helped me to try out the material covered in practice.
 
 [Flexbox Froggy](http://flexboxfroggy.com/#ru)
 
-[FlexboxDone](./task_responsive_web_design/flexbox-froggy.png)
+![FlexboxDone](./task_responsive_web_design/flexbox-froggy.png)
