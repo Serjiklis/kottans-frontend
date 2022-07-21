@@ -37,3 +37,15 @@ Usually, using GitHub and Git in individual projects, about 5-7 teams are used, 
 Images of completed tasks in a folder [task_html_css_into](./task_html_css_intro/) 
 
 CSS and HTML are what website developers constantly work with and their knowledge is the basis of website building.
+
+--- 
+
+## Responsive Web Design
+
+[Responsve](./task_responsive_web_design/responsive.png)
+
+I only knew the basics of CSS and there was a lot of useful information for me, I liked the game with frogs and helped me to try out the material covered in practice.
+
+[Flexbox Froggy](http://flexboxfroggy.com/#ru)
+
+[FlexboxDone](./task_responsive_web_design/flexbox-froggy.png)
