@@ -30,3 +30,10 @@ It was interesting to learn about different authorization systems and encryption
 
 Usually, using GitHub and Git in individual projects, about 5-7 teams are used, another thing is teamwork, and then you understand how flexible and possible this tool is.
 [Git simulator](https://learngitbranching.js.org/?locale=uk) - I liked it very much.
+
+---
+
+## Intro to HTML and CSS
+Images of completed tasks in a folder [task_html_css_into](./task_html_css_into/) 
+
+CSS and HTML are what website developers constantly work with and their knowledge is the basis of website building.
