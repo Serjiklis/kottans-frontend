@@ -15,8 +15,18 @@ Some of the commands were familiar, and as for access rights and viewing workflo
 In the [task_linux _cli](./task_linux_cli/) folder, screenshots of the answers to the quiz can be used as a reminder
 
 ---
+
 [HTTP: Протокол, який повинен розуміти кожний веб-розробник (Частина 1)](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 
 [HTTP: Протокол, який повинен розуміти кожний веб-розробник (Частина 2)](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 
 It was interesting to learn about different authorization systems and encryption, a lot of new and useful information.
+
+---
+
+## Git Collaboration
+![Go](./task_git_collaboration/go-next.png)
+![Origin](./task_git_collaboration/origin-to-stars.png)
+
+Usually, using GitHub and Git in individual projects, about 5-7 teams are used, another thing is teamwork, and then you understand how flexible and possible this tool is.
+[Git simulator](https://learngitbranching.js.org/?locale=uk) - I liked it very much.
