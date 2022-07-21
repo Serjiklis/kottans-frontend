@@ -34,6 +34,6 @@ Usually, using GitHub and Git in individual projects, about 5-7 teams are used, 
 ---
 
 ## Intro to HTML and CSS
-Images of completed tasks in a folder [task_html_css_into](./task_html_css_into/) 
+Images of completed tasks in a folder [task_html_css_into](./task_html_css_intro/) 
 
 CSS and HTML are what website developers constantly work with and their knowledge is the basis of website building.
