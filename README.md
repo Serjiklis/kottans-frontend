@@ -49,3 +49,24 @@ I only knew the basics of CSS and there was a lot of useful information for me, 
 [Flexbox Froggy](http://flexboxfroggy.com/#ru) a simulator in which you can train flex in a playful way.
 
 ![FlexboxDone](./task_responsive_web_design/flexbox-froggy.png)
+
+---
+
+## HTML-CSS-Popup — #done
+This task was not easy, a lot of time and nerves were spent to consolidate the theory in practice :)
+
+---
+
+## JS Basics
+
+Introduction to Javascript - [folder with screenshots of the course](./js_basics/coursera/)
+
+![Basic JavaScript](./js_basics/basic_js_1.png)
+![ES6](./js_basics/es6_2.png)
+![Regular Expressions](./js_basics/regex-3.png)
+![Basic Data Structures](./js_basics/dbs_4.png)
+![Basic Algorithm Scripting](./js_basics/bsa_5.png)
+![Functional Programming](./js_basics/fp_6.png)
+![Intermediate Algorithm Scripting](./js_basics/ias_7.png)
+
+---
