@@ -59,7 +59,7 @@ This task was not easy, a lot of time and nerves were spent to consolidate the t
 
 ## JS Basics
 
-###Introduction to Javascript - [folder with screenshots of the course](./js_basics/coursera/)
+***Introduction to Javascript*** - [folder with screenshots of the course](./js_basics/coursera/)
 
 ![Basic JavaScript](./js_basics/basic_js_1.png)
 ![ES6](./js_basics/es6_2.png)
